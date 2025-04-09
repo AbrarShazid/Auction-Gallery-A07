@@ -3,7 +3,7 @@
 A modern auction web application where users can discover, favorite, and bid on rare collectibles and unique items. Built with React and TailwindCSS.
 
 ### 🔗 Live Preview  
-👉 [View Live](https://your-deployed-site-link.com)
+👉 [View Live](https://auction-gallery-a07.vercel.app/)
 
 ---
 
