@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "Vintage Leica M3 Camera",
+    "description": "A classic 35mm film camera renowned for its mechanical precision, released in the 1950s.",
+    "currentBidPrice": 2300,
+    "timeLeft": "2 days",
+    "bidsCount": 17,
+    "image": "https://i.ibb.co.com/fGLS731y/Bid1-min.png"
+  },
+  {
+    "id": 2,
+    "title": "1965 Gibson SG Standard Electric Guitar",
+    "description": "Iconic vintage electric guitar known for its slim design and rock ‘n’ roll heritage.",
+    "currentBidPrice": 7200,
+    "timeLeft": "1 day",
+    "bidsCount": 24,
+    "image": "https://i.ibb.co.com/vvXC0rFV/Bid2-min.png"
+  },
+  {
+    "id": 3,
+    "title": "Original Apple Macintosh 128K (1984)",
+    "description": "The revolutionary personal computer that introduced the graphical user interface to the masses.",
+    "currentBidPrice": 5200,
+    "timeLeft": "3 days",
+    "bidsCount": 31,
+    "image": "https://i.ibb.co.com/kgC90bd0/Bid3-min.png"
+  },
+  {
+    "id": 4,
+    "title": "Rolex Submariner 16610",
+    "description": "Highly sought-after diver’s watch known for its timeless design and exceptional durability.",
+    "currentBidPrice": 11200,
+    "timeLeft": "12 days",
+    "bidsCount": 43,
+    "image": "https://i.ibb.co.com/bjZDzdCc/Bid4-min.png"
+  },
+
+  {
+    "id": 5,
+    "title": "Mid-Century Modern Eames Lounge Chair",
+    "description": "A design icon blending comfort and sophistication, crafted with molded plywood and leather.",
+    "currentBidPrice": 4300,
+    "timeLeft": "3 days",
+    "bidsCount": 27,
+    "image": "https://i.ibb.co.com/RTMw5bWD/Bid5-min.png"
+  },
+  {
+    "id": 6,
+    "title": "First Edition 'The Great Gatsby' by F. Scott Fitzgerald",
+    "description": "A rare first edition of the American literary classic, published in 1925 by Scribner’s.",
+    "currentBidPrice": 8600,
+    "timeLeft": "1 day",
+    "bidsCount": 19,
+    "image": "https://i.ibb.co.com/S9cKgfG/Bid6-min.png"
+  },
+  {
+    "id": 7,
+    "title": "Banksy Original Screen Print",
+    "description": "An authenticated screen print by the elusive street artist Banksy, limited edition and highly collectible.",
+    "currentBidPrice": 15500,
+    "timeLeft": "6 days",
+    "bidsCount": 51,
+    "image": "https://i.ibb.co.com/YTZsr7fc/Bid7-min.png"
+  }
+]
